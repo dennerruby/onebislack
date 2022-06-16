@@ -1,5 +1,10 @@
 version: '2'
-
+x-env: &env
+  POSTGRES_HOST: postgres
+  POSTGRES_USERNAME: postgres
+  POSTGRES_PASSWORD: postgres
+  REDIS_URL: redis://redis:6379/
+  MAILCATCHER_ADDRESS: 'mailcatcher'
 services:
   postgres:
     image: 'postgres:9.5'
