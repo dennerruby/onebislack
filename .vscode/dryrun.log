@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/denner/Projetos Ruby/onebislack'
+make: Leaving directory '/home/denner/Projetos Ruby/onebislack'
+ 
+make: *** No targets.  Stop.
+

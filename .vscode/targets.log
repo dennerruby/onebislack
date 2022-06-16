@@ -1,0 +1,73 @@
+SNAP_COMMON = /var/snap/code/common
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink load
+# environment
+rvm_prefix = /home/denner
+# environment
+SNAP_USER_DATA = /home/denner/snap/code/97
+# environment
+XDG_MENU_PREFIX = gnome-
+# environment
+RUBY_VERSION = ruby-2.5.7
+# environment
+GDMSESSION = ubuntu-xorg
+# environment
+LC_IDENTIFICATION = pt_BR.UTF-8
+# environment
+SNAP_LIBRARY_PATH = /var/lib/snapd/lib/gl:/var/lib/snapd/lib/gl32:/var/lib/snapd/void
+# variable set hash-table stats:
+# Load=146/1024=14%, Rehash=0, Collisions=8/175=5%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (device 66306, inode 1057605): 22 files, no impossibilities.
+
+# 22 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+all:
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+
+# Not a target:
+makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-05-19 22:28:03.940150285
+#  File has been updated.
+#  Successfully updated.
+
+# files hash-table stats:
+# Load=4/1024=0%, Rehash=0, Collisions=0/14=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 27 / storage = 210 B / avg = 7 B
+# current buf: size = 8162 B / used = 210 B / count = 27 / avg = 7 B
+
+# strcache performance: lookups = 31 / hit rate = 12%
+# hash-table stats:
+# Load=27/8192=0%, Rehash=0, Collisions=0/31=0%
+# Finished Make data base on Fri May 20 08:23:44 2022
+
+ 
